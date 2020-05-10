@@ -3,6 +3,7 @@
 		font-family: monospace;
 
 
+
 }
 h1{
 	text-align: center;
@@ -26,7 +27,7 @@ section>h2{
 	border-bottom:2px solid black;
 	border-left: 2px solid black;
 	margin: 0;
-	width: 200px;
+	width: 300px;
 	text-align: center;
 	font-style:monospace;
 	font-size: 25px;
@@ -37,14 +38,14 @@ section>h2{
     
 }
 
-section.ironman>h2{
-    background-color:red;
+section.ai>h2{
+    background-color:lightpink;
     	}
-section.thor>h2{
+section.ml>h2{
     background-color: blue;
  		}
-section.loki>h2{
-	background-color: green;
+section.dl>h2{
+	background-color: brown;
     	}
 section>p{
 	padding: 40px 15px 15px 15px;
